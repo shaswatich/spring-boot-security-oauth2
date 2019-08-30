@@ -1,0 +1,3 @@
+INSERT INTO "USER" (username, password, salary, age) VALUES('testuser1','$2a$04$swfxmkWCvchgvTfhgK477uiZs0gW16HO.PX6UZYUUfpKniGMUPDRm', 70000, 23);
+INSERT INTO "USER" (username, password, salary, age) VALUES('testuser2','$2a$04$epCNd9pJd6WZCgywE.2L3uxQQWWJHUeUayl9cNzWUsjUiW1qcKMPa', 40000, 35);
+INSERT INTO "USER" (username, password, salary, age) VALUES('testuser3','$2a$04$CEhk9s8Xlumnvft3c9Jd9ec1inyjeCn6wPhL/.M5HdI8xglDTSq4m', 9000, 18);
